@@ -20,6 +20,6 @@ const styles = StyleSheet.create({
 });
 
 
-//https://lmbmtfbkeupxjhqloudk.supabase.co
+// https://ofbcxciqjsaplzqrgiyu.supabase.co
 
-//eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImxtYm10ZmJrZXVweGpocWxvdWRrIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MDA5OTg3ODgsImV4cCI6MjAxNjU3NDc4OH0.9_ygHp-b8cPeeJ4r9h_AeIF1Cs6JxttYXtzQKd4hWt0
+// eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im9mYmN4Y2lxanNhcGx6cXJnaXl1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3MDQ2MDQ3ODcsImV4cCI6MjAyMDE4MDc4N30.ceOc6uwB-nE7AEgi7Wm2XQ_e-F7oODEcaxPXYv-BDwQ
